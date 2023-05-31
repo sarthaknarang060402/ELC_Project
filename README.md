@@ -6,7 +6,9 @@ IOT Project
 2. Hardware Part:
 		https://www.youtube.com/watch?v=vyb_qHuY6DA
 		https://how2electronics.com/measure-soil-nutrient-using-arduino-soil-npk-sensor/
+		
 3. Requirements:
+
 S.N.	COMPONENTS NAME	QUANTITY	PRICE	PURCHASE LINK
 1	Arduino Nano Board	1	500	 Amazon
 
